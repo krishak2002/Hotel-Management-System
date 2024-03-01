@@ -1,4 +1,4 @@
-package AIrbnb.pawandeep.vmm;
+package hotel-management-system.krishak.vmm;
 
 import java.sql.*;
 
