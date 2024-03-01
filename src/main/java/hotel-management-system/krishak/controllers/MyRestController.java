@@ -1,12 +1,12 @@
 
-package AIrbnb.pawandeep.controllers;
+package hotel-management-system.krishak.controllers;
 
 //import com.mysql.cj.protocol.Resultset;
 //import Airbnb.pawandeep.vmm.DBLoader;
 //import hostlers.pawandeep.vmm.RDBMS_TO_JSON;
-import AIrbnb.pawandeep.vmm.DBLoader;
-import AIrbnb.pawandeep.vmm.RDBMS_TO_JSON;
-import AIrbnb.pawandeep.vmm.sendWA;
+import hotel-management-system.krishak.vmm.DBLoader;
+import hotel-management-system.krishak.vmm.RDBMS_TO_JSON;
+import hotel-management-system.krishak.vmm.sendWA;
 import jakarta.servlet.http.HttpSession;
 import java.io.File;
 import java.io.FileOutputStream;
